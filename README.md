@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Swati Verma! 👋
 
-<!--
-**SwatiVerma20/SwatiVerma20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Data Science Enthusiast | Software Engineer
 
-Here are some ideas to get you started:
+I have 9+ years of experience in software development and recently completed the Post Graduate Program in Data Science and Business Analytics from UT Austin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm now exploring opportunities in Data Analytics and Data Science, where I can combine my software engineering experience with my passion for working with data.
+
+Skills
+
+Python
+
+SQL
+
+Pandas & NumPy
+
+Machine Learning
+
+Data Visualization
+
+Tableau
+
+MySQL, PostgreSQL, SQL Server
+
+Featured Projects
+
+Coming soon! I'm currently organizing and publishing my Data Analytics and Data Science projects.
+
+Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/swativerma20/
